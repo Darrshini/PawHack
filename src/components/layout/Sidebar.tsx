@@ -40,7 +40,7 @@ export function Sidebar({ onClose, alertCount = 0 }: SidebarProps) {
       {/* Brand */}
       <div className="sidebar-brand">
         <div className="sidebar-brand-icon">🐾</div>
-        <span className="sidebar-brand-name">PawPal</span>
+        <span className="sidebar-brand-name">NutriPaw</span>
       </div>
 
       {/* Pet Switcher */}
