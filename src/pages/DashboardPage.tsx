@@ -80,7 +80,7 @@ export default function DashboardPage() {
       <div>
         <div className="page-header">
           <div>
-            <h1 className="page-title">Welcome to PawPal 🐾</h1>
+            <h1 className="page-title">Welcome to NutriPaw 🐾</h1>
             <p className="page-subtitle">{format(new Date(), 'EEEE, d MMMM yyyy')}</p>
           </div>
         </div>
