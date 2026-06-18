@@ -1,7 +1,7 @@
 import { supabase } from '../lib/supabase'
 import { subDays, subWeeks, addDays, format } from 'date-fns'
 
-const DEMO_FLAG_KEY = 'pawpal_demo_loaded'
+const DEMO_FLAG_KEY = 'NutriPaw_demo_loaded'
 
 export function hasDemoData(): boolean {
   return localStorage.getItem(DEMO_FLAG_KEY) === 'true'
