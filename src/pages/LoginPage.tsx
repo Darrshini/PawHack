@@ -100,7 +100,7 @@ export default function LoginPage() {
           {/* Mobile logo */}
           <div style={{ textAlign: 'center', marginBottom: '2rem' }} id="login-mobile-logo">
             <div style={{ fontSize: '2.5rem' }}>🐾</div>
-            <h1 style={{ fontFamily: 'var(--font-display)', fontSize: '1.75rem', fontWeight: 800 }}>PawPal</h1>
+            <h1 style={{ fontFamily: 'var(--font-display)', fontSize: '1.75rem', fontWeight: 800 }}>NutriPaw</h1>
             <p className="text-muted text-sm" style={{ marginTop: '0.25rem' }}>Pet care, simplified</p>
           </div>
 
