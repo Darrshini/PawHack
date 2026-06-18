@@ -175,7 +175,7 @@ export default function SettingsPage() {
 
         {/* App info */}
         <p className="text-xs text-muted" style={{ textAlign: 'center', padding: '0.5rem' }}>
-          PawPal v1.0.0 · Built with React + Supabase · Data is stored securely in your Supabase project.
+          NutriPaw v1.0.0 · Built with React + Supabase · Data is stored securely in your Supabase project.
         </p>
       </div>
 
@@ -194,7 +194,7 @@ export default function SettingsPage() {
         onClose={() => setSignOutOpen(false)}
         onConfirm={handleSignOut}
         title="Sign out?"
-        message="You'll be signed out of PawPal and redirected to the login screen."
+        message="You'll be signed out of NutriPaw and redirected to the login screen."
         confirmLabel="Sign Out"
       />
     </div>
